@@ -3,6 +3,7 @@ StackOverflow Developer Salary Analysis
 Overview
 
 This project is part of a university data analysis course. - So it's partially in Czech
+
 The goal is to analyze developer survey data from StackOverflow and build a predictive model to estimate total compensation (CompTotal) based on various demographic and professional features.
 
 The work presented here corresponds to the intermediate stage of the project. It focuses on data cleaning, feature engineering, encoding, and initial modeling.
